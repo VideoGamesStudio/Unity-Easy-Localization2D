@@ -1,0 +1,1 @@
+# Unity-Easy-Localization2D
